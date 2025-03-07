@@ -1,0 +1,16 @@
+aakashkarki2059
+0V3cQfgZIfba2Lkx
+
+
+
+
+PORT = 8001
+
+SALT_ROUNDS = 10
+JWT_SECRET=aksIW&Jej&ASksjKLK22@kas3jdofasdfs4aj4dfsdhfkas364dfel
+
+MONGO_KEY=I7j6muAvtasIgQcq
+
+MONGO_URI=mongodb+srv://aakashkarki2059:I7j6muAvtasIgQcq@cluster0.gdgbf.mongodb.net/iGuide?retryWrites=true&w=majority&appName=Cluster0
+
+GEMINI_API_KEY=AIzaSyB9Sa1lv6mcQu31UGRvkqmM83lMqnRyj6w
